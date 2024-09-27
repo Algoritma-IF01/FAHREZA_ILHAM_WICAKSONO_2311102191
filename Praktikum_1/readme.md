@@ -2,6 +2,8 @@
 
 <p align="center"> Fahreza Ilham Wicaksono </p>
 
+<p align="center"> 2311102191 </p>
+
 ## Code
 
 ```go
@@ -19,4 +21,5 @@ func main()  {
 
 ## Output
 
-![Output 1.1](https://raw.githubusercontent.com/Algoritma-IF01/FAHREZA_ILHAM_WICAKSONO_2311102191/blob/main/Praktikum_1/images/output1.1.png)
+![Output 1.1](https://raw.githubusercontent.com/Algoritma-IF01/FAHREZA_ILHAM_WICAKSONO_2311102191/main/Praktikum_1/images/output1.1.png)
+
