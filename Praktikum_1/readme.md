@@ -21,5 +21,5 @@ func main()  {
 
 ## Output
 
-![Output 1.1](https://raw.githubusercontent.com/Algoritma-IF01/FAHREZA_ILHAM_WICAKSONO_2311102191/tree/main/Praktikum_1/images/output1.1.png)
+![Output 1.1](images/output1.1.png)
 
