@@ -1,1 +1,3 @@
-# FAHREZA_ILHAM_WICAKSONO_2311102191
+# Nama    : Fahreza Ilham Wicaksono
+# NIM     : 2311102191
+# Kelas   : IF-11-01
