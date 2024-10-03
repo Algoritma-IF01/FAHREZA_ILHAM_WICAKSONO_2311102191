@@ -26,9 +26,9 @@ func main() {
 
 ## Output
 
-![Output 1.1](images/Output1.1.png)
+![Output 1.2](images/Output1.2.png)
 
-## Code Hello Hipotenusa
+## Code Hipotenusa
 
 ```go
 package main
@@ -57,9 +57,9 @@ func main() {
 
 ## Output
 
-![Output 1.2](images/Output2.1.png)
+![Output 2.2](images/Output2.2.png)
 
-## Code Hello Latihan 1
+## Code Latihan 1
 
 ```go
 package main
@@ -97,7 +97,7 @@ func main() {
 
 ![Output 3.2](images/Output3.2.png)
 
-## Code Hello Latihan 2
+## Code Latihan 2
 
 ```go
 package main
@@ -123,7 +123,7 @@ func main()  {
 
 ![Output 4.2](images/Output4.2.png)
 
-## Code Hello Latihan 3
+## Code Latihan 3
 
 ```go
 package main
@@ -154,7 +154,7 @@ func main() {
 
 ![Output 5.2](images/Output5.2.png)
 
-## Code Hello Latihan 4
+## Code Latihan 4
 
 ```go
 package main
@@ -186,7 +186,7 @@ func main() {
 
 ![Output 5.2](images/Output5.2.png)
 
-## Code Hello Latihan 5
+## Code Latihan 5
 
 ```go
 package main
