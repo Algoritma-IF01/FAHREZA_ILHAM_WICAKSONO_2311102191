@@ -1,4 +1,4 @@
-# <h1 align="center"> Laporan Praktikum Modul Review Struktur Kontrol Perulangan dan Perbangan </h1>
+# <h1 align="center"> Laporan Praktikum Modul Review Struktur Kontrol Perulangan dan Percabangan </h1>
 
 <p align="center"> Fahreza Ilham Wicaksono </p>
 
