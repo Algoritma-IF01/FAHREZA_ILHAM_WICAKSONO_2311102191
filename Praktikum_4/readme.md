@@ -282,7 +282,7 @@ func main() {
 
 ## Output
 
-![Output 2.1](images/Output2.1.png)
+![Output 2.2](images/Output2.2.png)
 
 ## Prosedur - Latihan 3
 
